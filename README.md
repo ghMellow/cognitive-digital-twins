@@ -28,4 +28,4 @@ To facilitate both academic citation and industrial reuse, this project uses a d
 * **Thesis & Documentation:** Licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
 ---
-*Developed as a Master's Thesis project by [Your Name].*
+*Developed as a Master's Thesis project by Termine Nicolò.*
