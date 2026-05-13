@@ -27,8 +27,15 @@ The first practical experiment after the theoretical phase. Runs controlled mult
 ### Local GLM-OCR — PDF to Markdown
 - **Repository:** [local-glm-ocr-pdf-to-markdown](https://github.com/ghMellow/local-glm-ocr-pdf-to-markdown)
 
-A local web interface wrapping the [`glm-ocr:latest`](https://ollama.com/library/glm-ocr) multimodal model to convert complex PDFs (charts, tables, figures) into clean Markdown. Built specifically to support a **custom skill** in the [LLM Wiki](https://github.com/ghMellow/cognitive-digital-twins-thesis), enabling agents to reliably ingest structured information from research papers and technical documents. The frontend is a convenience layer — the core integration uses the exposed local endpoint directly.
+A local web interface wrapping the [`glm-ocr:latest`](https://ollama.com/library/glm-ocr) multimodal model to convert complex PDFs (charts, tables, figures) into clean Markdown. Built specifically to support a **custom skill** in the [LLM Wiki](https://github.com/ghMellow/cognitive-digital-twins-thesis), enabling agents to reliably ingest structured information from research papers and technical documents. The frontend is a convenience layer the core integration uses the exposed local endpoint directly.
 - **Key focus:** Multimodal PDF ingestion, Markdown extraction for RAG pipelines, skill integration with the CDT knowledge base.
+
+### GAN (Generative Adversarial Networks)
+- **Repository:** [polito-gan](https://github.com/ghMellow/polito-gan)
+
+Progetto sviluppato per il corso del Politecnico di Torino focalizzato sullo studio e l'implementazione di modelli generativi. Include esperimenti su architetture adversarial per la sintesi di immagini e l'analisi delle dinamiche di addestramento tra Generator e Discriminator.
+- **Key focus:** Deep Learning, Generative Models, Adversarial Training, Computer Vision.
+
 
 ---
 
